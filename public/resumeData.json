@@ -45,45 +45,45 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "The City College Of New York",
         "degree": "Bachelors Of Science In Computer Science",
         "graduated": "Spring 2023",
-        "description": "Looking to graduate from CCNY by the Spring of 2023. Currently a Junior and interested in doing research this year."
+        "description": "I transferred to The City College of New York for their amazing Engineering & Computer Science Department. I am a junior and I am currently doing my Bachelors in Science in Computer Science. I am also thinking about doing my minor in Economics. At CCNY, I learned a lot of practical knowledge about developing software from the ground up and about processes that take place in both the Academic and Industry worlds to make things work. I discovered my passion for teaching myself things here for taking my projects to the next level by always aiming to do better."
       },
       {
         "school": "The Borough of Manhattan Community College",
         "degree": "Associates In Science In Computer Science",
         "graduated": "Spring 2020",
-        "description": "I completed my Associates from BMCC with Honors and was a part of two Honors Societies along with being the Treasurer of the Bangladesh Student Association."
+        "description": "I attended BMCC for my first 2 years of College. While here, I studied Computer Science, and worked hard to be on top of majority of my classes. I received a lot of the theory behind computer science here which helped build the foundation for the projects that I do now. "
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "CodePath",
+        "title": "Android Development TA",
+        "years": "August 2021 - Present",
+        "description": "• Taught Android development via implementations of apps like Flixter, Twitter, Instagram, and a final group project. • Monitored a time-sensitive live support channel on slack to provide students with guidance on assignments. • Resolved git issues & bugs using Android Studio’s logging and debugging tools. • Had one-on-one zoom sessions with students to explain concepts as well as debug projects."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Facebook",
+        "title": "FBU Android Development Intern Lead",
+        "years": "June 2021 - August 2021",
+        "description": "• Collaborated with a team of 15 to support all 180 FBU interns by debugging projects and explaining concepts in a fast-paced but stress-free environment. • Mentored and Supported a Personal Team of 15 Interns completely new to Android Development. • Researched and wrote guides on fixing common issues while developing Android Apps. • Built multiple Android Apps to solidify Android Development concepts and teach FBU Interns."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Research Foundation of The City University of New York",
+        "title": "Computer Science and Computer Information Systems Tutor",
+        "years": "October 2020 - Present",
+        "description": "• Taught students the basics of programming from introduction to intermediate courses using C++, Java & python. • Helped students complete their assignments with a complete understanding of the topic. • Provided tutoring services to over 80 unique students."
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Illustrator",
