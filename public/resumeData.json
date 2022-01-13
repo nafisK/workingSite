@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Nafis Khan",
-    "occupation": "Android Development TA & Technical Interview Prep Mentor @CodePath Computer Science Student @CCNY Graduating Spring 2023",
-    "description": "I moved to the U.S from Bangladesh in 2017 to pursue a better education. My passion for technology and engineering has led me to studying Computer Science. I am very active and have been pursuing all my goals since I moved and I am currently looking for Software Engineering Internships for Summer 2022",
+    "occupation": "Android Development TA & Technical Interview Prep Mentor @CodePath Computer Science Student @CCNY || Graduating Spring 2023",
+    "description": "I moved to the U.S from Bangladesh in 2017 to pursue a better education and my passion for technology and engineering has led me to study Computer Science. I am a very active and goal oriented person and I also am currently looking for Software Engineering Internships for Summer 2022",
     "image": "profilepic.jpg",
     "bio": "I started my development journey by learning to create Android Apps and then started to teach myself a little bit of Web development. I'm currently working on some Android Projects and will then move on to creating Web counterparts to those projects in the future. My goal is to become a really good and flexible software engineer therefore I'n very open to learning any new technology if an opportunity is given to me.",
     "contactmessage": "Feel Free to Contact me using LinkedIn or Email. You can also contact me through my website but it may take some time for me to reply back.",
@@ -14,8 +14,8 @@
       "state": "New York",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
