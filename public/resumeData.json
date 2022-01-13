@@ -4,7 +4,7 @@
     "occupation": "Android Development TA & Technical Interview Prep Mentor @CodePath Computer Science Student @CCNY || Graduating Spring 2023",
     "description": "I moved to the U.S from Bangladesh in 2017 to pursue a better education and my passion for technology and engineering has led me to study Computer Science. I am a very active and goal oriented person and I also am currently looking for Software Engineering Internships for Summer 2022",
     "image": "profilepic.jpg",
-    "bio": "I started my development journey by learning to create Android Apps and then started to teach myself a little bit of Web development. I'm currently working on some Android Projects and will then move on to creating Web counterparts to those projects in the future. My goal is to become a really good and flexible software engineer therefore I'n very open to learning any new technology if an opportunity is given to me.",
+    "bio": "I started my development journey by learning to create Android Apps and have also been trying to do a bit of React. I'm currently working on some Android Projects and will then move on to creating Web counterparts to those projects in the future. My goal is to become a really good and flexible software engineer therefore I'm very open to learning any new technologies to expand my skillet.",
     "contactmessage": "Feel Free to Contact me using LinkedIn or Email. You can also contact me through my website but it may take some time for me to reply back.",
     "email": "nafisrizwank@gmail.com",
     "phone": "555-555-5555",
@@ -18,9 +18,14 @@
     "resumedownload": "",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nafisrk",
-        "className": "fa fa-facebook"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nafisrk/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nafisK",
+        "className": "fa fa-github"
       },
       {
         "name": "twitter",
@@ -28,19 +33,9 @@
         "className": "fa fa-twitter"
       },
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nafisrk/",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "instagram",
         "url": "https://www.instagram.com/nafis_rk/",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/nafisK",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -51,7 +46,7 @@
         "school": "The City College Of New York",
         "degree": "Bachelors Of Science In Computer Science",
         "graduated": "Spring 2023",
-        "description": "I transferred to The City College of New York for their amazing Engineering & Computer Science Department. I am a junior and I am currently doing my Bachelors in Science in Computer Science. I am also thinking about doing my minor in Economics. At CCNY, I learned a lot of practical knowledge about developing software from the ground up and about processes that take place in both the Academic and Industry worlds to make things work. I discovered my passion for teaching myself things here for taking my projects to the next level by always aiming to do better."
+        "description": "I transferred to The City College of New York for their amazing Engineering & Computer Science Department. I am a junior and I am currently doing my Bachelors in Science in Computer Science. I am also thinking about doing my minor in Economics. At CCNY, I learned a lot of practical knowledge about developing software from the ground up and about processes that take place in both the Academia and Industry to make things work. I discovered my passion for teaching myself things here for taking my projects to the next level by always aiming to do better."
       },
       {
         "school": "The Borough of Manhattan Community College",
