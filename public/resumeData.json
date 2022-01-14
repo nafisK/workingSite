@@ -4,7 +4,7 @@
     "occupation": "Android Development TA & Technical Interview Prep Mentor @CodePath Computer Science Student @CCNY || Graduating Spring 2023",
     "description": "I moved to the U.S from Bangladesh in 2017 to pursue a better education and my passion for technology and engineering has led me to study Computer Science. I am a very active and goal oriented person and I also am currently looking for Software Engineering Internships for Summer 2022",
     "image": "profilepic.jpg",
-    "bio": "I started my development journey by learning to create Android Apps and have also been trying to do a bit of React. I'm currently working on some Android Projects and will then move on to creating Web counterparts to those projects in the future. My goal is to become a really good and flexible software engineer therefore I'm very open to learning any new technologies to expand my skillet.",
+    "bio": "I started my development journey by learning to create Android Apps and have also been trying to do a bit of React. I'm currently working on some Android Projects and will then move on to creating Web counterparts to those projects in the future. My goal is to become a really good and flexible software engineer therefore I'm very open to learning any new technologies to expand my skills.",
     "contactmessage": "Feel Free to Contact me using LinkedIn or Email. You can also contact me through my website but it may take some time for me to reply back.",
     "email": "nafisrizwank@gmail.com",
     "phone": "555-555-5555",
@@ -111,25 +111,25 @@
       {
         "title": "Canadian Wanderlust",
         "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
+        "image": "placeholder.jpg",
         "url": ""
       },
       {
         "title": "Fury Fighting Gear",
         "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
+        "image": "placeholder.jpg",
         "url": ""
       },
       {
         "title": "Original Thai Food",
         "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
+        "image": "placeholder.jpg",
         "url": ""
       },
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
-        "image": "resume-website.jpg",
+        "image": "placeholder.jpg",
         "url": ""
       }
     ]
